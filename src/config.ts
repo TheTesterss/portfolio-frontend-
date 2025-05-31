@@ -5,7 +5,7 @@ export const DISCORD_BOT_TOKEN = '...';
 export const PROJECTS_CONFIG = [
     {
         "name": "Portfolio (React TS + Tailwindcss)",
-        "githubLink": "https://github.com/TheTesterss/portfolio"
+        "githubLink": "https://github.com/TheTesterss/portfolio-frontend-"
     },
     {
         "name": "Interpreter V1 (Typescript)",
