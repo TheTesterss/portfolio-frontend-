@@ -22,12 +22,5 @@
         "color": "text-blue-400",
         "username": "TheTesters",
         "labelKey": "followers"
-    },
-    {
-        "platform": "LinkedIn",
-        "url": "#",
-        "icon": "fab fa-linkedin",
-        "color": "text-blue-700",
-        "labelKey": "connections"
     }
 ]
