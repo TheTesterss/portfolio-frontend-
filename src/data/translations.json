@@ -1,0 +1,190 @@
+{
+    "skills": {
+        "fr": "Mes Compétences",
+        "en": "My Skills"
+    },
+    "changelog": {
+        "fr": "Changelog",
+        "en": "Changelog"
+    },
+    "socials": {
+        "fr": "Réseaux Sociaux",
+        "en": "Social Networks"
+    },
+    "contact": {
+        "fr": "Contact",
+        "en": "Contact"
+    },
+    "mySkills": {
+        "fr": "Mes Compétences",
+        "en": "My Skills"
+    },
+    "language": {
+        "fr": "Langues",
+        "en": "Languages"
+    },
+    "framework": {
+        "fr": "Frameworks",
+        "en": "Frameworks"
+    },
+    "tool": {
+        "fr": "Outils",
+        "en": "Tools"
+    },
+    "database": {
+        "fr": "Bases de données",
+        "en": "Databases"
+    },
+    "beginner": {
+        "fr": "Débutant",
+        "en": "Beginner"
+    },
+    "intermediate": {
+        "fr": "Intermédiaire",
+        "en": "Intermediate"
+    },
+    "advanced": {
+        "fr": "Avancé",
+        "en": "Advanced"
+    },
+    "expert": {
+        "fr": "Expert",
+        "en": "Expert"
+    },
+    "level": {
+        "fr": "Niveau",
+        "en": "Level"
+    },
+    "selectProject": {
+        "fr": "Sélectionner un Projet",
+        "en": "Select a Project"
+    },
+    "changelogFor": {
+        "fr": "Changelog pour",
+        "en": "Changelog for"
+    },
+    "selectAProject": {
+        "fr": "Sélectionnez un projet",
+        "en": "Select a project"
+    },
+    "loadingChangelogs": {
+        "fr": "Chargement des changelogs...",
+        "en": "Loading changelogs..."
+    },
+    "noChangelogsFound": {
+        "fr": "Aucun changelog trouvé pour ce projet.",
+        "en": "No changelogs found for this project."
+    },
+    "selectAProjectToViewChangelogs": {
+        "fr": "Sélectionnez un projet pour voir les changelogs.",
+        "en": "Select a project to view changelogs."
+    },
+    "version": {
+        "fr": "Version",
+        "en": "Version"
+    },
+    "previous": {
+        "fr": "Précédent",
+        "en": "Previous"
+    },
+    "next": {
+        "fr": "Suivant",
+        "en": "Next"
+    },
+    "locale": {
+        "fr": "fr-FR",
+        "en": "en-US"
+    },
+    "mySocials": {
+        "fr": "Mes Réseaux Sociaux",
+        "en": "My Social Networks"
+    },
+    "followers": {
+        "fr": "abonnés",
+        "en": "followers"
+    },
+    "members": {
+        "fr": "membres",
+        "en": "members"
+    },
+    "connections": {
+        "fr": "connexions",
+        "en": "connections"
+    },
+    "loadingStats": {
+        "fr": "Chargement des stats...",
+        "en": "Loading stats..."
+    },
+    "joinServer": {
+        "fr": "Rejoindre le serveur",
+        "en": "Join server"
+    },
+    "visitProfile": {
+        "fr": "Visiter le profil",
+        "en": "Visit profile"
+    },
+    "contactMe": {
+        "fr": "Me Contacter",
+        "en": "Contact Me"
+    },
+    "yourName": {
+        "fr": "Votre Nom",
+        "en": "Your Name"
+    },
+    "yourEmail": {
+        "fr": "Votre Email",
+        "en": "Your Email"
+    },
+    "yourMessage": {
+        "fr": "Votre Message",
+        "en": "Your Message"
+    },
+    "sendMessage": {
+        "fr": "Envoyer le message",
+        "en": "Send Message"
+    },
+    "sending": {
+        "fr": "Envoi...",
+        "en": "Sending..."
+    },
+    "messageSentSuccess": {
+        "fr": "Message envoyé avec succès ! Je vous répondrai bientôt.",
+        "en": "Message sent successfully! I will reply soon."
+    },
+    "messageSentError": {
+        "fr": "Erreur lors de l'envoi du message. Veuillez réessayer.",
+        "en": "Error sending message. Please try again."
+    },
+    "builtWithLove": {
+        "fr": "Construit avec",
+        "en": "Built with"
+    },
+    "and": {
+        "fr": "et",
+        "en": "and"
+    },
+    "privacyPolicy": {
+        "fr": "Politique de Confidentialité",
+        "en": "Privacy Policy"
+    },
+    "termsOfService": {
+        "fr": "Conditions d'Utilisation",
+        "en": "Terms of Service"
+    },
+    "cookieConsentTitle": {
+        "fr": "Utilisation des cookies",
+        "en": "Cookie Usage"
+    },
+    "cookieConsentText": {
+        "fr": "Ce site utilise des cookies pour améliorer votre expérience. En continuant à naviguer, vous acceptez notre politique de cookies.",
+        "en": "This site uses cookies to improve your experience. By continuing to browse, you agree to our cookie policy."
+    },
+    "accept": {
+        "fr": "Accepter",
+        "en": "Accept"
+    },
+    "decline": {
+        "fr": "Refuser",
+        "en": "Decline"
+    }
+}

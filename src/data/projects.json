@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Portfolio (React TS + Tailwindcss)",
+        "githubLink": "https://github.com/TheTesterss/portfolio"
+    },
+    {
+        "name": "Interpreter V1 (Typescript)",
+        "githubLink": "https://github.com/TheTesterss/TEV"
+    },
+    {
+        "name": "Interpreter V2 (Golang)",
+        "githubLink": "https://github.com/TheTesterss/memory"
+    },
+    {
+        "name": "Apis REST (Typescript)",
+        "githubLink": "https://github.com/TheTesterss/RestApis"
+    },
+    {
+        "name": "Base bot discord (Typescript)",
+        "githubLink": "https://github.com/TheTesterss/Epsilon-DiscordBot"
+    },
+    {
+        "name": "French verifications (Golang)",
+        "githubLink": "https://github.com/TheTesterss/isFrenchText"
+    }
+]
